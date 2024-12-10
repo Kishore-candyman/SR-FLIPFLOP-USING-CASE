@@ -62,7 +62,8 @@ begin
    q=s|(~r&q);
    qbar=r|(~s&~q);
 end
-endmodule```
+endmodule
+```
 
 
 ![de exp 6 pr](https://github.com/user-attachments/assets/2f60e69f-d994-41f0-915a-639a7ce1800b)
