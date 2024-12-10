@@ -80,4 +80,5 @@ endmodule
 
 
 **RESULTS**
+
 Thus the SR flipflop is designed and verified using Quartus software.
